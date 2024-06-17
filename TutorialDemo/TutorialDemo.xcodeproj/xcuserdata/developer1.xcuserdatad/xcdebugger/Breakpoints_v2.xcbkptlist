@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF250B1A-8494-4102-B361-26A518B1FF2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5E1BD2F-E66F-463B-9F9E-E3E4D04F86AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutorialDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "didSelectNextAtIndex(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5ABB68CA-0486-4C53-B053-C8D56F53E376"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutorialDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "configForItemAtIndex(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EBC6E47-D546-47C5-B3CA-72BD454FC227"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutorialDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "configForItemAtIndex(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3AE6F70-FF76-4A80-AA45-1B3A0CE29832"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutorialDemo/OverlayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "OverlayViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC631411-177E-4742-9755-09FF3C7F5527"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutorialDemo/OverlayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "OverlayViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CC631411-177E-4742-9755-09FF3C7F5527 - ae8e6c0f69e2b5aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutorialDemo.FocusView.ovalRect.getter : __C.CGRect"
+                  moduleName = "TutorialDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/TutorialDemo/TutorialDemo/OverlayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "CC631411-177E-4742-9755-09FF3C7F5527 - f537d32871918dde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutorialDemo.FocusView.ovalRect.setter : __C.CGRect"
+                  moduleName = "TutorialDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/TutorialDemo/TutorialDemo/OverlayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "CC631411-177E-4742-9755-09FF3C7F5527 - c0bc183e185a93ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutorialDemo.FocusView.ovalRect.modify : __C.CGRect"
+                  moduleName = "TutorialDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/TutorialDemo/TutorialDemo/OverlayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "CC631411-177E-4742-9755-09FF3C7F5527 - dadddb124ddc1dde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutorialDemo.FocusView.ovalRect.modify : __C.CGRect with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TutorialDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/TutorialDemo/TutorialDemo/OverlayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "CC631411-177E-4742-9755-09FF3C7F5527 - 3d1598e9ce9fb201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutorialDemo.FocusView.init(frame: __C.CGRect) -&gt; TutorialDemo.FocusView"
+                  moduleName = "TutorialDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/TutorialDemo/TutorialDemo/OverlayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "CC631411-177E-4742-9755-09FF3C7F5527 - a63174ef8c4b0c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TutorialDemo.FocusView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TutorialDemo.FocusView&gt;"
+                  moduleName = "TutorialDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/TutorialDemo/TutorialDemo/OverlayViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E85879BE-D310-4091-97C4-88632B499DC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutorialDemo/OverlayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "OverlayViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85F31451-2C28-4D38-B589-E4163B8B38EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutorialDemo/OverlayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "OverlayViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AF55FFF-8268-45B4-A9CE-463B6012D91A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TutorialDemo/OverlayViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "touchesBegan(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
